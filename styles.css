@@ -11,12 +11,16 @@ video{
   background-color: black;
 }
 
-.wtf{
-  background-image: url('MissyWTF1.jpg');
+body div{
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
   height: 100%;
-  background-color: yellow;
+}
+.wtf{
+  background-image: url('MissyWTF1.jpg');
+}
+.footerbg{
+  background-image: url('footerbg.png');
 }
